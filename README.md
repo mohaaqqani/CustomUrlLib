@@ -16,5 +16,5 @@ Add the dependency to your add module `build.gradle` file:
 
 ```
 dependencies {
-	compile 'com.github.mohaaqqani:CustomUrlLib:v1.1'
+	compile 'com.github.mohaaqqani:CustomUrlLib:v1.0.1'
 }
